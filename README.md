@@ -9,11 +9,13 @@ Basics
 ![2](img/2.png)
 
 3. Arrays
-
 ![3](img/3.png)
+
 4. Multidimensional Arrays
 ![4](img/4.png)
 
 5. Conditions
 ![5](img/5.png)
 
+6. Strings
+![6](img/6.png)
