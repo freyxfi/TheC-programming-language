@@ -19,3 +19,6 @@ Basics
 
 6. Strings
 ![6](img/6.png)
+
+7. Function
+![7](img/7.png)
